@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
+*.log
+/tmp/
+
+# IDE
+.vscode/
+.idea/
+
+# Node (if any scripts)
+node_modules/
