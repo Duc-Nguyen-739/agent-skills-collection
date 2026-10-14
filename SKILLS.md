@@ -13,6 +13,7 @@
 | 9 | `security-review` | `core` | `security review`, `xss`, `injection`, `privilege` | `security-reviewer` |
 | 10 | `writing-plans` | `core` | `write plan`, `implementation plan`, `spec to plan` | `writing-plans` |
 | 11 | `project-bootstrap` | `gas` | `gas project`, `apps script`, `rollcall`, `bootstrap` | `project-skill` (generalized) |
+| 12 | `debate` | `core` | `debate`, `brainstorm`, `critique`, `converge`, `red-team`, `stress-test`, `review`, `audit` | `debate` (three-model deliberation skill) |
 
 ## Categories
 

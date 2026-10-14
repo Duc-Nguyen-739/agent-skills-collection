@@ -4,7 +4,7 @@ Curated, publish-ready **Agent Skills** (`SKILL.md`) for AI coding agents — co
 
 Focus: **webapp audit, Google Apps Script webapps, debugging & design** — distilled from real-world GAS + Sheets projects (e.g., `van90bg/attendance-portal` RollCall v2, 261 tests, 17 `.gs` + 9 HtmlService modules).
 
-## Skills (11)
+## Skills (12)
 
 | Skill | Category | Use When |
 |---|---|---|
@@ -19,6 +19,7 @@ Focus: **webapp audit, Google Apps Script webapps, debugging & design** — dist
 | [`security-review`](skills/security-review/SKILL.md) | `core` | Trace source→sink, privilege boundaries, separate root causes |
 | [`writing-plans`](skills/writing-plans/SKILL.md) | `core` | Write implementation plans before code — bite-sized tasks, no placeholders |
 | [`project-bootstrap`](skills/project-bootstrap/SKILL.md) | `gas` | Bootstrap GAS + Sheets projects — deterministic edit, CRLF, token system |
+| [`debate`](skills/debate/SKILL.md) | `core` | Three-model deliberation — consensus debate, red-team attack, two-phase audit |
 
 See [`SKILLS.md`](SKILLS.md) for full index with triggers and categories.
 
