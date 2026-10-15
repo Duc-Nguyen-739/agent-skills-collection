@@ -32,7 +32,7 @@ See [`SKILLS.md`](SKILLS.md) for full index with triggers and categories.
 cp -r skills/gas-webapp-review /path/to/your-project/.agents/skills/
 
 # Or add as git submodule
-git submodule add https://github.com/van90bg/agent-skills-collection .agents/skills-collection
+git submodule add https://github.com/Duc-Nguyen-739/agent-skills-collection .agents/skills-collection
 ```
 
 ### Claude Code / Cursor
@@ -49,7 +49,7 @@ name: gas-webapp-review
 description: Review GAS webapps ...
 license: MIT
 metadata:
-  author: van90bg
+  author: Duc-Nguyen-739
   version: "1.0"
   category: gas
   triggers: ["gas review", "apps script audit"]

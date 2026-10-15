@@ -3,7 +3,7 @@ name: security-review
 description: Security review for webapps — trace attacker-controlled source to dangerous sink, inspect controls, and report precise locations. Separate root causes, reject speculative findings.
 license: MIT
 metadata:
-  author: van90bg
+  author: Duc-Nguyen-739
   version: "1.0"
   category: core
   triggers: ["security review", "audit security", "xss", "injection", "privilege escalation"]

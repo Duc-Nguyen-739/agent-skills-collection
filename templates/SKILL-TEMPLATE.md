@@ -3,7 +3,7 @@ name: your-skill-name
 description: One-line description — when to use this skill. Use when the user says "..." or asks to "...".
 license: MIT
 metadata:
-  author: van90bg
+  author: Duc-Nguyen-739
   version: "1.0"
   category: core  # gas | web | core
   triggers: ["trigger phrase", "another trigger"]

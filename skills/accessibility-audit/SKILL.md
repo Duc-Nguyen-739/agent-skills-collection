@@ -3,7 +3,7 @@ name: accessibility-audit
 description: Audit and improve web accessibility following WCAG 2.2 (POUR). Use for a11y audit, WCAG compliance, screen reader, keyboard, focus, contrast, or making a webapp accessible.
 license: MIT
 metadata:
-  author: van90bg
+  author: Duc-Nguyen-739
   version: "1.0"
   category: web
   triggers: ["accessibility", "a11y", "wcag", "screen reader", "keyboard navigation"]

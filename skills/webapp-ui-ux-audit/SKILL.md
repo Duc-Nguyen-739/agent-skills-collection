@@ -3,7 +3,7 @@ name: webapp-ui-ux-audit
 description: Comprehensive UI/UX audit for webapps — design language consistency + WCAG 2.2 accessibility + performance + automated verify (audit-css/gs/style/ui + CDP). Bundles design-system, a11y, performance and 3-phase audit into one run with 3-layer cross-audit dedup.
 license: MIT
 metadata:
-  author: van90bg
+  author: Duc-Nguyen-739
   version: "1.0"
   category: web
   triggers: ["ui audit", "ux audit", "design review", "accessibility audit", "wcag", "performance audit", "cdp verify"]

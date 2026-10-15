@@ -3,7 +3,7 @@ name: code-research
 description: Research external libraries, frameworks, and APIs via source code and official docs. Ground every claim in source or docs, never training data. Read-only on user project.
 license: MIT
 metadata:
-  author: van90bg
+  author: Duc-Nguyen-739
   version: "1.0"
   category: core
   triggers: ["research library", "how to use X", "how does X implement", "api docs", "read source"]

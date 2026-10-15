@@ -3,7 +3,7 @@ name: project-bootstrap
 description: Bootstrap or work inside a GAS + Sheets webapp project. Use for any edit (UI, server, tests, docs) — provides architecture mental model, gotchas, deterministic editing, batch runner, perf, and pitfalls.
 license: MIT
 metadata:
-  author: van90bg
+  author: Duc-Nguyen-739
   version: "1.0"
   category: gas
   triggers: ["gas project", "apps script project", "rollcall", "sheets webapp"]

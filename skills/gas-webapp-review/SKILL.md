@@ -3,7 +3,7 @@ name: gas-webapp-review
 description: Review Google Apps Script webapps served via HtmlService. Use when the project uses doGet/doPost, HtmlService templates, google.script.run, Session.getActiveUser(), CacheService/LockService, or Sheets as DB. Covers failure-modes checklist, confidence scoring, and optional MoA second opinion.
 license: MIT
 metadata:
-  author: van90bg
+  author: Duc-Nguyen-739
   version: "1.0"
   category: gas
   triggers: ["gas review", "apps script audit", "sheets webapp", "htmlservice review", "lockservice", "cacheservice"]

@@ -3,7 +3,7 @@ name: writing-plans
 description: Write implementation plans for multi-step tasks before touching code. Use when you have a spec or requirements and need a step-by-step plan.
 license: MIT
 metadata:
-  author: van90bg
+  author: Duc-Nguyen-739
   version: "1.0"
   category: core
   triggers: ["write plan", "implementation plan", "spec to plan"]

@@ -3,7 +3,7 @@ name: debate
 description: Three-model deliberation through subagents — consensus debate (default), adversarial red-team (--redteam), two-phase code audit (--audit). Sequential, cap 3, lean for low-RAM and free quotas. Use for debate, brainstorm, critique, converge, red-team, stress-test, review, audit.
 license: MIT
 metadata:
-  author: van90bg
+  author: Duc-Nguyen-739
   version: "1.0"
   category: core
   triggers: ["debate", "brainstorm", "critique", "converge", "red-team", "stress-test", "review", "audit"]

@@ -3,7 +3,7 @@ name: systematic-debugging
 description: 4-phase systematic debugging — root cause BEFORE fix. Use for every technical bug: test failures, production bugs, unexpected behavior, performance issues. Required for emergencies, quick-fix temptations, or repeated failed fixes.
 license: MIT
 metadata:
-  author: van90bg
+  author: Duc-Nguyen-739
   version: "1.0"
   category: core
   triggers: ["debug", "bug fix", "test failure", "flaky", "root cause"]

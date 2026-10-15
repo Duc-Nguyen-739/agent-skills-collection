@@ -3,7 +3,7 @@ name: performance-audit
 description: Optimize web performance for loading and runtime. Use to speed up site, reduce load time, fix slow loading, or run a performance audit.
 license: MIT
 metadata:
-  author: van90bg
+  author: Duc-Nguyen-739
   version: "1.0"
   category: web
   triggers: ["performance", "speed up", "lighthouse", "core web vitals", "optimize"]

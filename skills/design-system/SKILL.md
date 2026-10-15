@@ -3,7 +3,7 @@ name: design-system
 description: Build scalable design systems with Tailwind CSS v4, design tokens, and component libraries. Use when creating component libraries, theming, or standardizing UI patterns.
 license: MIT
 metadata:
-  author: van90bg
+  author: Duc-Nguyen-739
   version: "1.0"
   category: web
   triggers: ["design system", "design tokens", "tailwind", "component library", "theming"]

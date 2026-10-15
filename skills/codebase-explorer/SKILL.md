@@ -3,7 +3,7 @@ name: codebase-explorer
 description: Fast codebase exploration — locate relevant files, trace dependencies, and return structured findings without re-reading everything. Use for quick lookups or thorough dependency tracing.
 license: MIT
 metadata:
-  author: van90bg
+  author: Duc-Nguyen-739
   version: "1.0"
   category: core
   triggers: ["explore codebase", "find files", "trace dependencies", "locate code"]
